@@ -44,7 +44,7 @@ python forward_pass_viz.py
 
 Developed as part of an advanced exploration into Neural Network fundamentals, linear algebra, and data visualization techniques.
 
-## 👩‍гх Author & Contribution
+## Author & Contribution
 
 This research, the underlying codebase, and the visualization logic were developed entirely by **Dariia Zhdanova**. 
 
