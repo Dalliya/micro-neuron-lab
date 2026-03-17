@@ -1,9 +1,5 @@
 # 🧠 Neural Network Forward Pass: Matrix Inference Visualizer
 
-[![Research Status](https://img.shields.io/badge/Research%20Status-Active-success.svg)]()
-[![Methodology](https://img.shields.io/badge/Methodology-Tariq%20Rashid-blue.svg)]()
-
-> *An interactive, code-driven exploration of neural network signal propagation and non-linear activation spaces.*
 
 ## 📖 Abstract
 
