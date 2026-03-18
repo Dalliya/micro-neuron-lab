@@ -45,6 +45,8 @@ Open solution.ipynb in VS Code, Jupyter Notebook, or Google Colab to execute the
 Note: The script will automatically generate and save a high-resolution matrix_plot.png file in your directory upon execution.
 
 📸 Experimental Results
+
+![Inference Visualization](matrix_plot.png)
 (Fig 1. Geometric mapping of hidden layer neuron activations plotted against the global sigmoid space. Generated natively via Matplotlib).
 
 👩‍💻 Author & Contribution
